@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #94faa1;
+}
+
+#visi-misi {
+  padding: 20px;
+}
+
+#sambutan {
+  padding: 20px;
+}
